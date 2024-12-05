@@ -22,12 +22,12 @@ The goal is to navigate a maze from the start to the target while demonstrating 
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/maze-navigation-ai.git
+   git clone https://github.com/Mostafa23/AI-Maze-Search-Algoritms.git
    ```
 
 2. Navigate to the project directory:  
    ```bash
-   cd maze-navigation-ai
+   cd AI-Maze-Search-Algoritms
    ```
 
 3. Run the program:  
